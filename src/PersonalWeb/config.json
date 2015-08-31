@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "PersonalWeb"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-PersonalWeb-5c59c01d-1689-4681-b5b6-1e0edcba32cc;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
